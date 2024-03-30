@@ -1,3 +1,13 @@
 {
-  "scores": []
+  "scores": [
+    {
+      "name": "Joueur1",
+      "score": 5000
+    },
+    {
+      "name": "Joueur2",
+      "score": 7000
+    }
+    // Plus de scores si disponibles...
+  ]
 }
